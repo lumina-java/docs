@@ -104,6 +104,7 @@ export default defineConfig({
           { text: '09. Broadcasting & WebSocket', link: '/09_broadcasting_dan_websocket' },
           { text: '10. Queue Jobs & Scheduler', link: '/10_queue_jobs_dan_scheduler' },
           { text: '17. Universal Storage & Redis Suite', link: '/17_universal_storage_dan_redis_suite' },
+          { text: '18. API-First & Testing Kit', link: '/18_api_first_openapi_swagger_dan_testing_kit' },
           { text: '11. Observabilitas & Telescope', link: '/11_observabilitas_dan_telescope' },
         ]
       },
