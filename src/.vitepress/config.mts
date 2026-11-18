@@ -80,6 +80,7 @@ export default defineConfig({
         text: '🗄️ Database & Eloquent ORM',
         items: [
           { text: '04. Model, Query Builder & Factory', link: '/04_model_dan_eloquent_orm' },
+          { text: '19. Advanced Eloquent, Observers & Seeding', link: '/19_advanced_eloquent_model_observers_dan_seeding' },
         ]
       },
       {
