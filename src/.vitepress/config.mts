@@ -57,7 +57,7 @@ export default defineConfig({
           { text: 'Lumina Telescope', link: '/11_observabilitas_dan_telescope' },
         ]
       },
-      { text: 'v0.5.0', link: 'https://github.com/lumina-java/framework/releases' }
+      { text: 'v1.0.0 (LTS)', link: 'https://github.com/lumina-java/framework/releases' }
     ],
 
     sidebar: [
@@ -100,6 +100,8 @@ export default defineConfig({
       {
         text: '⚡ Fitur Lanjutan (Advanced)',
         items: [
+          { text: '20. Lumina Tinker (Interactive REPL)', link: '/20_lumina_tinker' },
+          { text: '21. Dynamic WASM & Hot-Reload', link: '/21_wasm_plugins_hot_reload' },
           { text: '06. WASM Sandbox & Plugin', link: '/06_wasm_sandbox_dan_plugin' },
           { text: '07. Indonesian Script (.is)', link: '/07_indonesian_script' },
           { text: '09. Broadcasting & WebSocket', link: '/09_broadcasting_dan_websocket' },
