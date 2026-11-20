@@ -112,6 +112,14 @@ export default defineConfig({
         ]
       },
       {
+        text: '🤖 AI Ecosystem & Hardware Bridge',
+        items: [
+          { text: '22. AI Context & Agent Skills', link: '/22_ai_agent_context_and_skills' },
+          { text: '23. Lumina Hardware Bridge', link: '/23_lumina_hardware_bridge' },
+          { text: '24. Lumina Desktop Engine', link: '/24_lumina_desktop_engine' },
+        ]
+      },
+      {
         text: '🚀 Produksi & Pembuktian',
         items: [
           { text: '12. Deployment & DevOps', link: '/12_deployment_dan_devops' },

@@ -134,7 +134,7 @@ req.audit_log(
 
 Dasbor Lumina Aurora menyajikan metrik performa aplikasi secara *real-time*:
 * **Statistik Cepat**: Total Pengguna Aktif, Throughput Permintaan (Requests/sec), Rata-rata Latensi Server (< 0.5ms), dan Penggunaan RAM Server (~18MB).
-* **Tabel Aktivitas Pengguna**: Riwayat transaksi atau aktivitas terbaru dengan format mata uang rupiah otomatis melalui pipeline Blade `{{ $transaksi.total | rupiah }}`.
+* **Tabel Aktivitas Pengguna**: Riwayat transaksi atau aktivitas terbaru dengan format mata uang rupiah otomatis melalui pipeline Blade `&#123;&#123; $transaksi.total | rupiah &#125;&#125;`.
 * **Layout Responsif**: Sidebar dapat dilipat (*collapsible*) pada perangkat mobile dan desktop, memberikan ruang kerja maksimal.
 
 ---

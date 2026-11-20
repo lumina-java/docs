@@ -28,7 +28,7 @@ features:
     details: Dilindungi oleh Global Zero-Panic Error Boundary (catch_unwind), Anti Brute-Force lockout, Granular RBAC (@can, @role), dan Audit Trail ISO 27001.
   - icon: 🔋
     title: Batteries-Included
-    details: Semua kebutuhan web backend sudah terpasang rapi: Router, Migrasi SQLx, WebSocket Echo, Asynchronous Queue Workers, Cron Scheduler, dan Artisan-like CLI.
+    details: "Semua kebutuhan web backend sudah terpasang rapi: Router, Migrasi SQLx, WebSocket Echo, Asynchronous Queue Workers, Cron Scheduler, dan Artisan-like CLI."
   - icon: 🌟
     title: Lumina Aurora Starter Kit
     details: Starter kit autentikasi & dashboard elegan dengan Pure Native Blade + Tailwind CSS. Zero JS runtime bloat, respons instan 60 FPS di perangkat apa pun.
